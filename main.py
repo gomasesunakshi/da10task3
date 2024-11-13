@@ -22,3 +22,4 @@ print(f'f1.val2 ={f1.val2}')
 f2=firstclass(10,20)
 f2.addvalue()
 
+
